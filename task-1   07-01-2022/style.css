@@ -1,0 +1,28 @@
+
+body {
+    border: 2px solid black;
+    margin: 2px;
+    padding: 20px;
+}
+
+#lab {
+    margin-right: 10px;
+}
+
+#first {
+    margin-right: 10px;
+}
+
+#last {
+    margin-right: 10px;
+}
+
+#btn {
+    padding: 15px;
+    border-color: grey;
+}
+
+.star {
+    color: orange;
+
+}
